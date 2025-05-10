@@ -4,12 +4,12 @@ index.html
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>BrandName</title>
+  <title>nyxwear</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <header>
-    <div class="logo">BrandName</div>
+    <div class="logo">nyxwear</div>
     <div class="menu-toggle" id="menu-toggle">&#9776;</div>
     <nav id="nav">
       <ul>
@@ -21,7 +21,7 @@ index.html
     </nav>
   </header>  <section id="home" class="hero">
     <div class="hero-content">
-      <h1>Benvenuto su BrandName</h1>
+      <h1>Benvenuto su nyxwear</h1>
       <p>Nuova collezione in arrivo</p>
     </div>
   </section>  <section id="collection" class="section">
